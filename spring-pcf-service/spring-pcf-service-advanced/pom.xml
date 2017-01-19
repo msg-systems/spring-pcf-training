@@ -1,5 +1,5 @@
 <!--
-  ~ Copyright (C) 2016 Thinkenterprise
+  ~ Copyright (C) 2016 msg systems ag
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -22,7 +22,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.thinkenterprise</groupId>
+    <groupId>de.msg</groupId>
     <artifactId>spring-pcf-service-advanced</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
